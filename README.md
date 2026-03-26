@@ -16,7 +16,8 @@ Built machine learning models to detect fraudulent credit card transactions in a
 
 ## Results
 Random Forest achieved strong performance, while XGBoost provided a balanced tradeoff. Threshold tuning improved overall detection of fraudulent transactions.
-
+## Model Comparison
+![Model Performance](modelsgraph.png)
 ## Tools
 Python, Pandas, NumPy, scikit-learn, XGBoost, PyTorch, Matplotlib
 
